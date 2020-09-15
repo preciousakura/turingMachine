@@ -38,7 +38,34 @@ comeca_a_multiplicar,_,<
 
 // MULTIPLICAR POR 0 - PRIMEIRA MULTIPLICAÇÃO
 comeca_a_multiplicar,0
-achar_asterisco_0,z,<
+ve_se_so_tem_0,z,<
+
+ve_se_so_tem_0,0
+ve_se_so_tem_0,0,<
+
+ve_se_so_tem_0,1
+achar_asterisco_0,1,<
+
+ve_se_so_tem_0,*
+deu_zero,_,>
+
+deu_zero,0
+deu_zero,_,>
+
+deu_zero,z
+apagaar,_,<
+
+apagaar,_
+apagaar,_,<
+
+apagaar,0
+apagaar,_,<
+
+apagaar,1
+apagaar,_,<
+
+apagaar,-
+FIM,0,-
 
 comeca_a_multiplicar,z
 nova_multiplicacao,z,<
@@ -56,7 +83,24 @@ colocar_0,1
 achar_um_branco_0,y,<
 
 colocar_0,0
-achar_um_branco_0,x,<
+verifica_se_so_tem_zero_0,x,<
+
+
+verifica_se_so_tem_zero_0,0
+verifica_se_so_tem_zero_0,0,<
+
+verifica_se_so_tem_zero_0,-
+apaga_geral,_,>
+
+
+
+apaga_geral,_
+FIM,0,-
+
+verifica_se_so_tem_zero_0,1
+achar_um_branco_0,1,<
+
+
 
 achar_um_branco_0,1
 achar_um_branco_0,1,<
@@ -129,7 +173,37 @@ colocar_1,1
 imprimi_1,y,<
 
 colocar_1,0
-imprimi_0,x,<
+verifica_se_so_tem_zero,x,<
+
+verifica_se_so_tem_zero,0
+verifica_se_so_tem_zero,0,<
+
+verifica_se_so_tem_zero,-
+apaga_geral,_,>
+
+apaga_geral,0
+apaga_geral,_,>
+
+apaga_geral,x
+apaga_geral,_,>
+
+apaga_geral,*
+apaga_geral,_,>
+
+apaga_geral,1
+apaga_geral,_,>
+
+apaga_geral,u
+FIM,0,-
+
+apaga_geral,z
+FIM,0,-
+
+
+
+verifica_se_so_tem_zero,1
+imprimi_0,1,<
+
 
 imprimi_1,1
 imprimi_1,1,<
