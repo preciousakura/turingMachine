@@ -11,6 +11,15 @@ accept: I
 // U = 1
 // B = 1
 
+// TESTES E NÚMEROS DE PASSOS
+
+// 11*10 = 110 (86 PASSOS)
+// 101*1100 =  111100 (293 PASSOS)
+// 1010*000 = 0 (26 PASSOS)
+// 000*1010 = 0 (28 PASSOS)
+// 11011110*101 = 10001010110 (694 PASSOS)
+// 111010*1101011 =  1100000111110 (1342 PASSOS)
+
 
 //esse código move todo os números 1's para o final
 
