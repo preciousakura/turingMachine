@@ -1,6 +1,7 @@
 init: I
 accept: I
 
+// ATUALIZAÇÃO DIA 18/09/2020
 // LEGENDA DAS VARIÁVEIS
 // E = 0
 // X = 0
